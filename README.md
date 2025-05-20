@@ -35,3 +35,4 @@ A passionate Business Analyst & RPA Developer with 8 years of experience transfo
 
 When I’m not automating workflows or building dashboards, you’ll find me spending time with friends, cooking up something delicious, or exploring new places. 🗺️🍳👫
 
+Thanks for stopping by my GitHub! Feel free to explore my repositories, and don’t hesitate to connect for collaboration or a chat about data, automation, or analytics!
