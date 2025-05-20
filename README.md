@@ -19,7 +19,7 @@ A passionate Business Analyst & RPA Developer with 8 years of experience transfo
 
 🌱 What I'm Learning
 
-My journey revolves around turning complex business challenges into scalable digital solutions. I’m constantly upskilling in:
+   My journey revolves around turning complex business challenges into scalable digital solutions. I’m constantly upskilling in:
     Advanced RPA Design & Orchestration
     Data Analytics & Visualization
     Cloud-based Integration & Snowflake SQL
@@ -27,7 +27,8 @@ My journey revolves around turning complex business challenges into scalable dig
     
 📫 How to Reach Me
 
-  📧 You can email me at [gajulajyothsnarani@gmail.com](gajulajyothsnarani@gmail.com))
+  📧 You can email me at [gajulajyothsnarani@gmail.com](gajulajyothsnarani@gmail.com)
+  
   💼 Check out my professional profile on🔗 [LinkedIn Profile](https://www.linkedin.com/in/jyothsna-rani-gajula-4833102b6)
 
 😄 Fun Facts
