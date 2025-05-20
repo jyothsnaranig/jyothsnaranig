@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Jyothsna Rani Gajula
+👋 Hi there! I'm Jyothsna Rani Gajula
 A passionate Business Analyst & RPA Developer with 8 years of experience transforming business processes and delivering automation excellence across Retail, Supply Chain, and Healthcare domains. I’m driven by curiosity, committed to continuous learning, and focused on leveraging data to create real impact.
 
 💼 Professional Background
@@ -27,7 +27,7 @@ My journey revolves around turning complex business challenges into scalable dig
     
 📫 How to Reach Me
 
-  📧 You can email me at ([Email Me](gajulajyothsnarani@gmail.com))
+  📧 You can email me at [gajulajyothsnarani@gmail.com](gajulajyothsnarani@gmail.com))
   💼 Check out my professional profile on🔗 [LinkedIn Profile](https://www.linkedin.com/in/jyothsna-rani-gajula-4833102b6)
 
 😄 Fun Facts
