@@ -1,30 +1,33 @@
 👋 Hi there! I'm Jyothsna Rani Gajula
-A passionate Business Analyst & RPA Developer with 8 years of experience transforming business processes and delivering automation excellence across Retail, Supply Chain, and Healthcare domains. I’m driven by curiosity, committed to continuous learning, and focused on leveraging data to create real impact.
+A results-driven Data Engineer & Business Analyst with 8 years of hands-on experience transforming data pipelines and automating business processes across Retail, Healthcare, and Supply Chain domains. I bring a blend of technical depth and business acumen to craft solutions that deliver measurable impact.
 
 💼 Professional Background
 
-  🎓 Master of Science in Business Analytics – University of New Haven (2025)
-  👩‍💻 Former Associate Projects @ Cognizant, Senior Software Engineer @ KFin Technologies, and Analyst @ Arcturus Technology Solutions
-  🔧 Strong expertise in Business Process Automation, SQL, Power BI, Tableau, and RPA Tools like Automation Anywhere & UiPath
-  📊 Skilled in requirements gathering, data validation, stakeholder collaboration, and Agile methodology
-  📋 Built comprehensive BRDs, SRS, and led UATs with 100% traceability using JIRA
+🎓 M.S. in Business Analytics – University of New Haven (2025)
+👩‍💻 Former Associate Projects @ Cognizant | Senior Software Engineer @ KFin Technologies | Analyst @ Arcturus Technology Solutions
+☁️ Cloud-native developer across Azure, AWS, GCP, with expertise in Snowflake, Airflow, and Spark
+📊 Adept in BI tools like Power BI, Tableau, and automation platforms including UiPath and Automation Anywhere
+🔁 Proven success in building ETL/ELT workflows, data pipelines, and real-time streaming solutions using Kafka, Spark, Hive
 
-🔭 What I've Worked On
+🔍 What I’ve Worked On
 
-      💡 Developed automation bots to reconcile data between ThreatMetrix and internal systems, reducing manual errors by 25%
-      📈 Implemented UiPath bots for CVS Pharmacy that cut processing time of insurance claims by 3+ hours daily
-      📊 Created Power BI dashboards for regression testing and sprint prioritization with 20% uplift in delivery efficiency
-      📑 Facilitated end-to-end claims processing enhancements at KFinTech with SAP validation and compliance mapping
-      💼 Built Tableau dashboards and performed SQL-backed validations to ensure reliable healthcare EDI compliance at Optum
+✅ Automated reporting with Automation Anywhere — boosted delivery efficiency by 25%
+📈 Developed Spark & Databricks pipelines at CVS and KFinTech — reducing batch times by 10x
+📊 Delivered Azure Synapse-based dashboards & tabular models for end-to-end analytics visibility
+💡 Migrated legacy ETL jobs to modern Spark workflows — increasing agility and reducing processing errors
+📑 Created SQL/SSIS-driven reporting frameworks with real-time healthcare insights at Optum
+📦 Successfully transitioned on-prem Oracle DWH to AWS Redshift with full fidelity
 
 🌱 What I'm Learning
 
-   My journey revolves around turning complex business challenges into scalable digital solutions. I’m constantly upskilling in:
-    Advanced RPA Design & Orchestration
-    Data Analytics & Visualization
-    Cloud-based Integration & Snowflake SQL
-    I find immense satisfaction in building systems that eliminate bottlenecks, enhance transparency, and drive business growth.
-    
+My career is focused on solving complex challenges with scalable tech solutions. I'm actively growing in:
+
+Advanced RPA Design & AI-Oriented Automation
+
+Cloud Data Architecture (Azure Synapse, Snowflake, Databricks)
+
+ML-Integrated ETL, Generative AI & Prompt Engineering (OCI Certified)
+  
 📫 How to Reach Me
 
   📧 You can email me at gajulajyothsnarani@gmail.com.
